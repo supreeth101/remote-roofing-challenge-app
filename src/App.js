@@ -20,11 +20,11 @@ function App() {
         <div className="top-container">
             <div className="top-flex">
                 <div className="logo flex-child">
-                    <img className="image" src={require('./assets/img/logo.png')} alt="logo" height ="50"/>
+                    <img className="image" src={require('./assets/img/logo.png')} alt="logo"/>
                     <span className="text"> Remote Roofing</span>
                 </div>
                 <div className="phone flex-child">
-                    <img className="image-1" src={require('./assets/img/telephone.png')} alt="phone" height ="30"/>
+                    <img className="image-1" src={require('./assets/img/telephone.png')} alt="phone"/>
                     <a href="tel:8004017716"><span className ="text"> +1 (800) 401-7716</span> </a>
                 </div>
             </div>
