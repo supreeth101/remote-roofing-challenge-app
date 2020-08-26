@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/remote-roofing-challenge-app/precache-manifest.a552ad69779d898270471c424f745a94.js"
+  "/remote-roofing-challenge-app/precache-manifest.54f09910390cb5d3f3c585f3879a7ea0.js"
 );
 
 self.addEventListener('message', (event) => {
